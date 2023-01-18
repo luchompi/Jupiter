@@ -36,6 +36,8 @@ INSTALLED_APPS = [
     'rest_framework_simplejwt',
     'rest_framework.authtoken',
     'djoser',
+    #dev_apps
+    'apps.Empresa',
 ]
 
 MIDDLEWARE = [
